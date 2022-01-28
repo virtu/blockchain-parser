@@ -1,3 +1,10 @@
+# Hints
+This is a just-for-fun blockchain parser I developed back in 2020 to
+teach myself about Bitcoin Core's various blockchain databases, and
+the serialization of blocks, transactions, input, outputs, and witnesses.
+
+# How to use
+
 The workflow to create a python-readable data structure that contains the
 Bitcoin blockchain is as follows:
 
